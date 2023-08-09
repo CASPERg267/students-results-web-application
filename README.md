@@ -35,6 +35,10 @@ npm start
 ```
 4. Open your web browser and navigate to http://localhost:21022 to access the application.
 
+
+### Note
+
+ - the excel sheet used in the web application is larger than 25mb, according to this i've [uploaded it separately](https://i.variable-hosting.com/4Pqz.xlsx)
 ## Usage
 
 - Enter the student's name or seating number in the search field.
